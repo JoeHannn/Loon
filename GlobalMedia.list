@@ -186,18 +186,13 @@ DOMAIN-SUFFIX,pornhubpremium.com
 DOMAIN-SUFFIX,primevideo.com
 DOMAIN-SUFFIX,prod.hjholdings.tv
 DOMAIN-SUFFIX,profile.line-scdn.net
-DOMAIN-SUFFIX,pscdn.co
 DOMAIN-SUFFIX,qobuz.com
-DOMAIN-SUFFIX,scdn.co
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,skyking.com.tw
 DOMAIN-SUFFIX,sndcdn.com
 DOMAIN-SUFFIX,socdm.com
 DOMAIN-SUFFIX,soundcloud.com
-DOMAIN-SUFFIX,spoti.fi
-DOMAIN-SUFFIX,spotify.com
-DOMAIN-SUFFIX,spotifycdn.net
 DOMAIN-SUFFIX,streaks.jp
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,tidal.com
@@ -221,7 +216,6 @@ DOMAIN-SUFFIX,youboranqs01.com
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube.com
 DOMAIN-SUFFIX,ytimg.com
-DOMAIN-KEYWORD,-spotify-com
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-KEYWORD,avoddashs
@@ -236,13 +230,11 @@ DOMAIN-KEYWORD,livedazn
 DOMAIN-KEYWORD,nflx
 DOMAIN-KEYWORD,nowtv100
 DOMAIN-KEYWORD,rthklive
-DOMAIN-KEYWORD,spotify.com
 DOMAIN-KEYWORD,ttvnw
 DOMAIN-KEYWORD,uk-live
 DOMAIN-KEYWORD,voddazn
 DOMAIN-KEYWORD,youtube
 USER-AGENT,*PCCW*
-USER-AGENT,*Spotify*
 USER-AGENT,*YouTubeMusic*
 USER-AGENT,*com.google.ios.youtubemusic*
 USER-AGENT,*nowe*
@@ -281,7 +273,6 @@ USER-AGENT,PBS*
 USER-AGENT,Pandora*
 USER-AGENT,Prime%20Video*
 USER-AGENT,SoundCloud*
-USER-AGENT,Spotify*
 USER-AGENT,TIDAL*
 USER-AGENT,TIDAL*dia
 USER-AGENT,TVB*
@@ -781,7 +772,6 @@ IP-CIDR,24.220.183.156/31,no-resolve
 IP-CIDR,24.220.183.158/32,no-resolve
 IP-CIDR,24.222.87.162/32,no-resolve
 IP-CIDR,34.210.42.111/32,no-resolve
-IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,37.143.80.10/32,no-resolve
 IP-CIDR,37.143.80.14/32,no-resolve
 IP-CIDR,37.143.80.6/32,no-resolve
